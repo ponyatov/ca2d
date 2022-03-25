@@ -1,0 +1,14 @@
+[package]
+name    = "ca2d"
+version = "0.0.1"
+edition = "2021"
+
+description =  "2D Web CAD engine"
+authors     = ["Dmitry Ponyatov <dponyatov@gmail.com>"]
+homepage    =  "https://github.com/ponyatov/ca2d"
+
+[dependencies]
+lazy_static = "*"
+gotham = "*"
+
+[dev-dependencies]

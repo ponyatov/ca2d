@@ -1,0 +1,24 @@
+{
+    "recommendations": [
+        "ryuta46.multi-command",
+        "stkb.rewrap",
+        "tabnine.tabnine-vscode",
+        // "auchenberg.vscode-browser-preview",
+        // "ms-vscode-remote.remote-ssh",
+        // "ms-azuretools.vscode-docker",
+        // \ test
+        "hbenl.vscode-test-explorer",
+        "swellaby.vscode-rust-test-adapter",
+        // / test
+        "tht13.python",
+        // \ rust
+        "matklad.rust-analyzer",
+        "tamasfe.even-better-toml",
+        "vadimcn.vscode-lldb",
+        "serayuzgur.crates",
+        "jedeop.crates-completer",
+        // / rust
+
+        "abusaidm.html-snippets",
+    ]
+}

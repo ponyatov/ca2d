@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "4fff58191e4e6629",
+    "type": "split",
+    "children": [
+      {
+        "id": "c25dc947715c4aa3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Syntax Parsing.md",
+            "mode": "source",
+            "backlinks": false
+          }
+        },
+        "group": "a26ad70b81d45923"
+      },
+      {
+        "id": "2f94fb3389f14d68",
+        "type": "split",
+        "children": [
+          {
+            "id": "1b2b8481d9cc7b14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Syntax Parsing.md",
+                "mode": "preview",
+                "backlinks": false
+              }
+            },
+            "group": "a26ad70b81d45923"
+          },
+          {
+            "id": "fc7926543db38ee5",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Syntax Parsing.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.632478632478633,
+                  "repelStrength": 16.4102564102564,
+                  "linkStrength": 1,
+                  "linkDistance": 42,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "a26ad70b81d45923"
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8b7a6ce9762d2c94",
+    "type": "split",
+    "children": [
+      {
+        "id": "b492736ab2c4258b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "230cb13995c25965",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a96091cd65956148",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 150
+  },
+  "right": {
+    "id": "7d7270edfb774909",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e3605e462f8e533",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15a602b458525ab3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Syntax Parsing.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c25dc947715c4aa3",
+  "lastOpenFiles": [
+    "Syntax Parsing.md",
+    "Rust.md",
+    "index.md",
+    "Web.md",
+    "ECS.md",
+    "CAD.md"
+  ]
+}
